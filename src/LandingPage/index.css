@@ -1,0 +1,14 @@
+.shoes{
+    width: 1830px;
+    height: 1200px;
+    position: relative;
+}
+.navbar{
+    position: absolute;
+    margin-top: -1200px;
+    color: white;
+    display: flex;
+   gap: 40px;
+   list-style-type: none;
+
+}
