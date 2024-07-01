@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import Products from './Products';
 import LandingPage from './LandingPage';
+import Footer from './Footer';
 import './App.css';
 
 function App() {
@@ -9,6 +10,8 @@ function App() {
       <LandingPage/>
       
       <Products/>
+
+      <Footer/>
     
     </div>
   );
