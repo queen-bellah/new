@@ -3,9 +3,15 @@
 grid-template-columns: repeat(4,6fr);
    margin-left: 9%;
    gap: 20px;
-}
+} */
 
 .images img{
-    width: 45%;
-    height: 30%;
-} */
+    width: 50%;
+    height: 60%;
+}
+.images{
+    display:grid ;
+    grid-template-columns: repeat(4,6fr);
+    padding-left: 100px;
+    padding-top: 100px;
+}
